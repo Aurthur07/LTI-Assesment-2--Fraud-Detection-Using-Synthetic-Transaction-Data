@@ -192,6 +192,7 @@ In a real-world system:
 ---
 
 ## 📂 Project Structure
+
 LTI-Assesment-2--Fraud-Detection-Using-Synthetic-Transaction-Data/
 ├── data/
 │ ├── raw/
