@@ -23,9 +23,9 @@ The objective of this project is to:
 ## 📊 Dataset Description
 
 ### Dataset Used
-- **Name:** Synthetic Financial Datasets for Fraud Detection (PaySim)
+- **Name:** Synthetic Financial Datasets 
 - **Source:** Kaggle  
-- **Link:** https://www.kaggle.com/datasets/ealaxi/paysim1
+- **Link:** 
 
 ### Why This Dataset?
 - Fully **synthetic**, avoiding privacy issues
