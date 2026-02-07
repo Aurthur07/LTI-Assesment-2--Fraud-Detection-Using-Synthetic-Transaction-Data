@@ -25,7 +25,7 @@ The objective of this project is to:
 ### Dataset Used
 - **Name:** Synthetic Financial Datasets 
 - **Source:** Kaggle  
-- **Link:** 
+- **Link:** https://www.kaggle.com/datasets/ealaxi/paysim1
 
 ### Why This Dataset?
 - Fully **synthetic**, avoiding privacy issues
